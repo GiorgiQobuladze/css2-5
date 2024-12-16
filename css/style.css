@@ -1,0 +1,484 @@
+#homeblok {
+    width: 1920px;
+}
+
+#headerblok {
+    width: 100%;
+    padding: 12px 32px;
+    background-color: #FBF9FF;
+}
+
+#logoblok {
+    display: inline-block;
+}
+
+#blok {
+    width: 236px;
+    display: inline-block;
+    margin-left: 666px;
+}
+
+#Pricing {
+    display: inline-block;
+    color: #323232;
+    font-size: 18px;
+}
+
+#FAQ {
+    display: inline-block;
+    margin-left: 20px;
+    color: #323232;
+    font-size: 18px;
+}
+
+#Our {
+    display: inline-block;
+    margin-left: 20px;
+    color: #323232;
+    font-size: 18px;
+}
+
+#Contactblok {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #6941C6;
+    border: 1px solid #6941C6;
+    border-radius: 8px;
+    margin-left: 730px;
+    color: #FFF;
+    font-size: 14px;
+}
+
+#mainblok {
+    width: 1248px;
+    background-color: #F1E8FF;
+    padding: 96px;
+    margin: 0 auto;
+    margin-top: 94px;
+}
+
+#contactone {
+    max-width: 1280px;
+    /* padding: 0px 32px; */
+}
+
+#Contact {
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+#titolo {
+    text-align: center;
+}
+
+#descrizione {
+    text-align: center;
+    color: #535862;
+    font-size: 24px;
+}
+
+#blokOne {
+    width: 320px;
+    padding: 32px;
+    background-color: #FFF;
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    display: inline-block;
+}
+
+#listone {
+    width: 93px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 4px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    font-size: 14px;
+    color: #6941C6;
+}
+
+#listTwo {
+    color: #181D27;
+    font-size: 48px;
+    text-align: center;
+}
+
+#listThree {
+    color: #535862;
+    font-size: 16px;
+    text-align: center;
+}
+
+#listFour {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background-color: #7F56D9;
+    color: #FFF;
+    font-size: 16px;
+    text-align: center;
+}
+
+#listFive {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background-color: #FFF;
+    color: #414651;
+    font-size: 16px;
+    text-align: center;
+}
+
+#bloks {
+    height: 1px;
+    background-color: #E9EAEB;
+}
+
+#checkone {
+    display: inline-block;
+}
+
+#checkboxone {
+    display: inline-block;
+    color: #535862;
+    font-size: 16px;
+    margin-left: 12px;
+}
+
+#checkblok {
+    margin-top: 32px;
+}
+
+#checkTwo {
+    display: inline-block;
+}
+
+#checkboxtwo {
+    display: inline-block;
+    color: #535862;
+    font-size: 16px;
+    margin-left: 12px;
+}
+
+#checkThree {
+    display: inline-block;
+}
+
+#checkboxthree {
+    display: inline-block;
+    color: #535862;
+    font-size: 16px;
+    margin-left: 12px;
+}
+
+#checkFour {
+    display: inline-block;
+}
+
+#checkboxfour {
+    display: inline-block;
+    color: #535862;
+    font-size: 16px;
+    margin-left: 12px;
+}
+
+#checkFive {
+    display: inline-block;
+}
+
+#checkboxfive {
+    display: inline-block;
+    color: #535862;
+    font-size: 16px;
+    margin-left: 12px;
+}
+
+#blokTwo {
+    width: 320px;
+    padding: 32px;
+    background-color: #FFF;
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    display: inline-block;
+}
+
+#blokThree {
+    width: 320px;
+    padding: 32px;
+    background-color: #FFF;
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    display: inline-block;
+}
+
+#contactTwo {
+    max-width: 1280px;
+    padding: 32px 0px;
+    border-radius: 24px;
+    background-color: #fff;
+    margin-top: 64px;
+}
+
+#containerone {
+    max-width: 768px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#lists {
+    font-size: 24px;
+    color: #535862;
+}
+
+#contactThree {
+    width: 768px;
+    border-radius: 16px;
+    padding: 32px;
+    background-color: #E4E4E4;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#imageGroup {
+    display: inline-block;
+}
+
+#imageteqst {
+    display: inline-block;
+    color: #181D27;
+    font-size: 16px;
+    margin-left: 24px;
+}
+
+#imageteqsone {
+    font-size: 16px;
+    color: #535862;
+    margin-left: 50px;
+}
+
+#contactFive {
+    width: 768px;
+    border-radius: 16px;
+    padding: 32px;
+    background-color: #FFE5E5;
+    border: 2px solid #FF2323;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#contactSix {
+    width: 768px;
+    border-radius: 16px;
+    padding: 32px;
+    background-color: #E9D7FF;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#contactSeven {
+    width: 768px;
+    border-radius: 16px;
+    padding: 32px;
+    background-color: #F7F4FF;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#contactEight {
+    width: 768px;
+    border-radius: 16px;
+    padding: 32px;
+    background-color: #DCE6FF;
+    border: 4px solid #326DFF;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#contactNine {
+    width: 768px;
+    border-radius: 16px;
+    padding: 32px;
+    background-color: #FFD5E7;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#portratone {
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+    display: inline-block;
+}
+
+#onelist {
+    margin: 0 auto;
+    width: 516px;
+    color: #181D27;
+    font-size: 20px;
+}
+
+#hayy {
+    width: 516px;
+    padding: 32px;
+}
+
+#oee {
+    display: inline-block;
+}
+
+#raari {
+    display: inline-block;
+    padding-left: 12px;
+}
+
+#bijo {
+    display: inline-block;
+    color: #181D27;
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+#gogo {
+    display: inline-block;
+}
+
+#qalo {
+    color: #535862;
+    font-size: 16px;
+    margin: 0;
+}
+
+#sly {
+    display: inline-block;
+    margin-left: 130px;
+}
+
+
+
+
+
+/* ///////////////////////////// */
+
+
+#reviewBlock {
+    background-color: #fff;
+    margin-top: 65px;
+    border-radius: 24px;
+    padding: 24px;
+}
+
+#reviewTitle {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+    margin: 0;
+    color: #000;
+}
+
+#reviewText {
+    font-size: 24px;
+    color: #535862;
+    text-align: center;
+    margin: 0;
+    margin-top: 20px;
+}
+
+#reviewWrapper {
+    padding-top: 65px;
+}
+
+#reviewItemOne,
+#reviewItemTwo,
+#reviewItemThree,
+#reviewItemFour {
+    border: 1px solid #E9EAEB;
+    border-radius: 12px;
+    padding: 30px;
+    max-width: 520px;
+    display: inline-block;
+}
+
+#reviewItemTwo,
+#reviewItemFour {
+    margin-left: 25px;
+}
+
+#reviewItemTitle,
+#reviewItemTitleTwo,
+#reviewItemTitleThree,
+#reviewItemTitleFour {
+    color: #181D27;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+    height: 90px;
+    margin-bottom: 64px;
+}
+
+#userAvatar,
+#userAvatarTwo,
+#userAvatarThree,
+#userAvatarFour {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#userBlockLeft,
+#userBlockLeftTwo,
+#userBlockLeftThree,
+#userBlockLeftFour {
+    display: inline-block;
+    width: 370px;
+}
+
+#userBlockRight,
+#userBlockRightTwo,
+#userBlockRightThree,
+#userBlockRightFour {
+    display: inline-block;
+}
+
+#userInfo,
+#userInfoTwo,
+#userInfoThree,
+#userInfoFour {
+    display: inline-block;
+    padding-left: 15px;
+}
+
+#userPosition,
+#userPositionTwo,
+#userPositionThree,
+#userPositionFour {
+    margin: 0;
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px
+}
+
+#userBadge,
+#userBadgeTwo,
+#userBadgeThree,
+#userBadgeFour {
+    vertical-align: middle;
+}
+
+#userName,
+#userNameTwo,
+#userNameThree,
+#userNameFour {
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+#reviewItemThree,
+#reviewItemFour {
+    margin-top: 25px;
+}
